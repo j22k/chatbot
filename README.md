@@ -2,7 +2,7 @@
 
 A modern Flask-based chatbot with sentiment analysis, name recognition, and web scraping capabilities.
 
-![AI Chat Assistant Screenshot](https://via.placeholder.com/800x450?text=AI+Chat+Assistant)
+![AI Chat Assistant Screenshot](![alt text](image.png))
 
 ## Features
 
