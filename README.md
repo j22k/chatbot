@@ -114,4 +114,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Your Name - [junaidkaliyadan@gmail.com](mailto:junaidkaliyadan@gmail.com)
 
-Project Link: [(https://github.com/j22k/chatbot.git](https://github.com/j22k/chatbot.git)
+Project Link: [https://github.com/j22k/chatbot.git](https://github.com/j22k/chatbot.git)
