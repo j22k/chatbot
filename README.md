@@ -2,7 +2,8 @@
 
 A modern Flask-based chatbot with sentiment analysis, name recognition, and web scraping capabilities.
 
-![AI Chat Assistant Screenshot](![alt text](image.png))
+AI Chat Assistant Screenshot
+(![alt text](image.png))
 
 ## Features
 
@@ -25,7 +26,7 @@ A modern Flask-based chatbot with sentiment analysis, name recognition, and web 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-chat-assistant.git
+   git clone https://github.com/j22k/chatbot.git
    cd ai-chat-assistant
    ```
 
@@ -111,6 +112,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [your.email@example.com](mailto:junaidkaliyadan@gmail.com)
 
-Project Link: [https://github.com/yourusername/ai-chat-assistant](https://github.com/yourusername/ai-chat-assistant)
+Project Link: [https://github.com/yourusername/ai-chat-assistant](https://github.com/j22k/chatbot.git)
